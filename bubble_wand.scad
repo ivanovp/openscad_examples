@@ -2,7 +2,7 @@ $fn=60;
 
 diameter = 10;
 thickness = 2;
-rings = 5;
+rings = 7;
 length = 40;
 overlap = 0;
 
